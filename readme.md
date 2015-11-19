@@ -12,11 +12,12 @@ The primary self-organization constitution document is [here](CONSTITUTION.md).
 
 ###Why is this constitution needed?
 
-Your group of 2-20 people needs a clear way to fulfill its purpose, make decisions, get things done, and respond to change.
-* To fit your values your constitution must be egalitarian.
-* In order to respond to change and adapt to your unique context you must be able to evolve your constitution.
-* To learn from other groups you need to be able to share innovations freely.
-* In order to build capacity rapidly with changing team members your constitution must also be simple.
+The constitition is currently designed for federations of organizations or groups of 2-20 people that need a clear way to fulfill their purpose, make decisions, get things done, and respond to change. 
+
+* Dynamic method of association between autonomous organizations and/or individuals  
+* Evolving and adapting to your unique context  
+* Ownership and management of any intellectual property generated through the collaboration  
+* Rapidly building capacity with changing team members via ease of use and simplicit
 
 If this is what you are looking for, [this constitution](CONSTITUTION.md) is for you.
 
@@ -48,12 +49,13 @@ You are not required to include attribution if you redistribute this constitutio
 
 ####Inspiration
 
-We were greatly inspired by Holacracy, Sociocracy, Morning Star self-management, and the tradition of self-organization stretching back to at least Norbert Wiener's work on Cybernetics.
+We were greatly inspired by Holacracy, Sociocracy, Morning Star self-management, the evolving field of blockchain governance, literature on expotential organizations, and the tradition of self-organization stretching back to at least Norbert Wiener's work on Cybernetics.
 
 ####Core Contributors:
 
 * Noah Thorp
 * Alexis Gonzales-Black
+* Joel Dietz (https://github.com/fractastical) 
 
 ####Contributors:
 
